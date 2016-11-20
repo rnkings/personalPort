@@ -22,10 +22,39 @@ header{
 
 }
 
-/*.navbar{
-    opacity:0.4;
-}*/
+.left{
+    float:left;
+    margin-left:-80px;
+}
 
+
+.grow{
+    color: white;
+    padding-top: 150px;
+    font-size: 50px;
+    text-shadow: -1px 2px 12px #000;
+
+
+}
+
+.gardenOfYourMind{
+    text-shadow: -1px 2px 12px #000;
+    color: white;
+    font-size: 25px;
+    text-transform: capitalize;
+
+
+}
+
+
+
+a{
+    text-transform: capitalize;
+}
+
+.fontSize{
+    font-size: 20px;
+}
 
 /*navbar-default navbar-fixed-top navbar-custom affix-top*/
 
