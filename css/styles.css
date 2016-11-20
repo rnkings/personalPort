@@ -69,6 +69,10 @@ a{
     height: 300px;
 }
 
+.AboutSpace{
+    height:150px;
+}
+
 .hrContainer {
     height: 60px;
     position: relative;
@@ -91,6 +95,28 @@ a{
 
 }
 
+.hrBlueStyles{
+    background-color: #2C3E50;
+    position:absolute;
+    height:4px;
+    width:25%;
+    top:50%;
+    margin:0 auto;
+    left: 37.5%;
+    z-index: 0 !important;
+}
 
+.roseLogoWhite{
+    background-color: #fff;
+
+}
+
+.roseLogoAbout{
+    background-color: #1FA4B6;
+}
+
+section.success {
+    background-color: #1FA4B6;
+}
 
 
