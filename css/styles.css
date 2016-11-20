@@ -55,5 +55,42 @@ a{
 
 }
 
+.navbar-custom .navbar-nav li a:hover {
+    color:#4d6077;
+}
+
+
+.roseHr{
+    z-index: 1;
+    position: inherit;
+}
+
+.intro-text{
+    height: 300px;
+}
+
+.hrContainer {
+    height: 60px;
+    position: relative;
+}
+
+
+
+.hrStyles{
+    background-color: #fff;
+    position:absolute;
+    height:4px;
+    width:25%;
+    top:50%;
+    margin:0 auto;
+    left: 37.5%;
+}
+
+.roseLogo{
+    background-color: #2C3E50;
+
+}
+
+
 
 
