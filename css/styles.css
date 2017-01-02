@@ -241,6 +241,12 @@ a, a.active, a:active, a:focus, a:hover {
     }
 }
 
+@media (max-width: 2560px) {
+    .intro-text {
+        padding-top: 20px;
+    }
+}
+
 @media (max-width: 733px) {
     .left {
         padding-right: 0px;
@@ -301,4 +307,20 @@ section.success {
 .row {
     margin-right: 0px;
     margin-left: 0px;
+}
+
+@media (max-width: 2560px) {
+    #portfolio .portfolio-item .portfolio-link {
+        max-width: 700px;
+    }
+}
+
+@media (max-width: 2560px) {
+    @media (max-width: 2560px) {
+    .portfolioPaddingTop {
+        padding-top: 40px;
+    }
+} {
+        max-width: 700px;
+    }
 }
