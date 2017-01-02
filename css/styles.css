@@ -255,3 +255,26 @@ section.success {
 .fa-download:active, .fa-download:focus, .fa-download:hover {
     color: #1FA4B6;
 }
+
+@media (max-width: 360px) {
+    #roseKoenings {
+        font-size: 20px;
+    }
+}
+
+@media (max-width: 375px) {
+    #roseKoenings {
+        font-size: 20px;
+    }
+}
+
+@media (max-width: 320px) {
+    #roseKoenings {
+        font-size: 15px;
+    }
+}
+
+.row {
+    margin-right: 0px;
+    margin-left: 0px;
+}
