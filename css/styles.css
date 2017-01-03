@@ -316,11 +316,7 @@ section.success {
 }
 
 @media (max-width: 2560px) {
-    @media (max-width: 2560px) {
     .portfolioPaddingTop {
         padding-top: 40px;
-    }
-} {
-        max-width: 700px;
     }
 }
